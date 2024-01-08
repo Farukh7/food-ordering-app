@@ -7,5 +7,27 @@
   },
   "devDependencies": {
     "process": "^0.11.10"
-  }
+  },
+  "name": "food-ordering-app",
+  "description": "/node_module\r /parcel-cache\r /dist",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farukh7/food-ordering-app.git"
+  },
+  "keywords": [
+    "akshay"
+  ],
+  "author": "Farukh Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farukh7/food-ordering-app/issues"
+  },
+  "homepage": "https://github.com/Farukh7/food-ordering-app#readme"
 }

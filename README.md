@@ -1,3 +1,1 @@
-/node_module
-/parcel-cache
-/dist
+Food Ordering App
