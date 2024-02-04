@@ -19,7 +19,7 @@ const Body = () => {
       cuisines: ["Burger", "American", "Snacks", "Fast Food"],
       costForTwo: 4000,
       deliveryTime: 36,
-      avgRating: "3.8",
+      avgRating: "3.9",
     }
     },
     {
