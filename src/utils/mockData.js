@@ -412,63 +412,6 @@ const resList = [
   },
   {
     info: {
-      id: "23847",
-      name: "Domino's Pizza",
-      cloudinaryImageId: "fjqcvqfgqlw6h0atques",
-      locality: "Rest House Road",
-      areaName: "Brigade Road",
-      costForTwo: "₹400 for two",
-      cuisines: ["Pizzas", "Italian", "Pastas", "Desserts"],
-      avgRating: 4.3,
-      deliveryTime: 25,
-      parentId: "2456",
-      avgRatingString: "4.3",
-      totalRatingsString: "5K+",
-      sla: {
-        serviceability: "SERVICEABLE",
-        slaString: "25 mins",
-        iconType: "ICON_TYPE_EMPTY",
-      },
-      availability: {
-        nextCloseTime: "2024-01-18 22:59:00",
-        opened: true,
-      },
-      badges: {},
-      isOpen: true,
-      type: "F",
-      badgesV2: {
-        entityBadges: {
-          imageBased: {},
-          textExtendedBadges: {},
-          textBased: {},
-        },
-      },
-      aggregatedDiscountInfoV3: {
-        header: "₹120 OFF",
-        subHeader: "ABOVE ₹199",
-        discountTag: "FLAT DEAL",
-      },
-      differentiatedUi: {
-        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-        differentiatedUiMediaDetails: {
-          mediaType: "ADS_MEDIA_ENUM_IMAGE",
-          lottie: {},
-          video: {},
-        },
-      },
-      reviewsSummary: {},
-      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationInfo: {},
-    },
-    analytics: {},
-    cta: {
-      link: "swiggy://menu?restaurant_id=23847",
-      text: "RESTAURANT_MENU",
-      type: "DEEPLINK",
-    },
-  },
-  {
-    info: {
       id: "329938",
       name: "Churmur Chaat Co",
       cloudinaryImageId: "womemvkfstu7zwrfulwe",
@@ -607,6 +550,63 @@ const resList = [
   },
   {
     info: {
+      id: "23847",
+      name: "Domino's Pizza",
+      cloudinaryImageId: "fjqcvqfgqlw6h0atques",
+      locality: "Rest House Road",
+      areaName: "Brigade Road",
+      costForTwo: "₹400 for two",
+      cuisines: ["Pizzas", "Italian", "Pastas", "Desserts"],
+      avgRating: 4.3,
+      deliveryTime: 25,
+      parentId: "2456",
+      avgRatingString: "4.3",
+      totalRatingsString: "5K+",
+      sla: {
+        serviceability: "SERVICEABLE",
+        slaString: "25 mins",
+        iconType: "ICON_TYPE_EMPTY",
+      },
+      availability: {
+        nextCloseTime: "2024-01-18 22:59:00",
+        opened: true,
+      },
+      badges: {},
+      isOpen: true,
+      type: "F",
+      badgesV2: {
+        entityBadges: {
+          imageBased: {},
+          textExtendedBadges: {},
+          textBased: {},
+        },
+      },
+      aggregatedDiscountInfoV3: {
+        header: "₹120 OFF",
+        subHeader: "ABOVE ₹199",
+        discountTag: "FLAT DEAL",
+      },
+      differentiatedUi: {
+        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        differentiatedUiMediaDetails: {
+          mediaType: "ADS_MEDIA_ENUM_IMAGE",
+          lottie: {},
+          video: {},
+        },
+      },
+      reviewsSummary: {},
+      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      restaurantOfferPresentationInfo: {},
+    },
+    analytics: {},
+    cta: {
+      link: "swiggy://menu?restaurant_id=23847",
+      text: "RESTAURANT_MENU",
+      type: "DEEPLINK",
+    },
+  },
+  {
+    info: {
       id: "739040",
       name: "Restaurant Chef Pillai",
       cloudinaryImageId: "475688804b4b6086854d60b3a68440e7",
@@ -665,65 +665,65 @@ const resList = [
       type: "DEEPLINK",
     },
   },
-  {
-    info: {
-      id: "15870",
-      name: "All Saints Bakery",
-      cloudinaryImageId: "yij33zwbu97ulmh9yymy",
-      locality: "Brigade Road",
-      areaName: "Ashok Nagar",
-      costForTwo: "₹200 for two",
-      cuisines: ["Bakery", "Snacks", "Desserts"],
-      avgRating: 4.5,
-      deliveryTime: 25,
-      parentId: "21659",
-      avgRatingString: "4.5",
-      totalRatingsString: "5K+",
-      sla: {
-        lastMileTravel: 2.3,
-        serviceability: "SERVICEABLE",
-        slaString: "25 mins",
-        lastMileTravelString: "2.3 km",
-        iconType: "ICON_TYPE_EMPTY",
-      },
-      availability: {
-        nextCloseTime: "2024-01-18 18:55:00",
-        opened: true,
-      },
-      badges: {},
-      isOpen: true,
-      type: "F",
-      badgesV2: {
-        entityBadges: {
-          imageBased: {},
-          textExtendedBadges: {},
-          textBased: {},
-        },
-      },
-      aggregatedDiscountInfoV3: {
-        header: "₹120 OFF",
-        subHeader: "ABOVE ₹199",
-        discountTag: "FLAT DEAL",
-      },
-      differentiatedUi: {
-        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-        differentiatedUiMediaDetails: {
-          mediaType: "ADS_MEDIA_ENUM_IMAGE",
-          lottie: {},
-          video: {},
-        },
-      },
-      reviewsSummary: {},
-      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationInfo: {},
-    },
-    analytics: {},
-    cta: {
-      link: "swiggy://menu?restaurant_id=15870",
-      text: "RESTAURANT_MENU",
-      type: "DEEPLINK",
-    },
-  },
+  // {
+  //   info: {
+  //     id: "15870",
+  //     name: "All Saints Bakery",
+  //     cloudinaryImageId: "yij33zwbu97ulmh9yymy",
+  //     locality: "Brigade Road",
+  //     areaName: "Ashok Nagar",
+  //     costForTwo: "₹200 for two",
+  //     cuisines: ["Bakery", "Snacks", "Desserts"],
+  //     avgRating: 4.5,
+  //     deliveryTime: 25,
+  //     parentId: "21659",
+  //     avgRatingString: "4.5",
+  //     totalRatingsString: "5K+",
+  //     sla: {
+  //       lastMileTravel: 2.3,
+  //       serviceability: "SERVICEABLE",
+  //       slaString: "25 mins",
+  //       lastMileTravelString: "2.3 km",
+  //       iconType: "ICON_TYPE_EMPTY",
+  //     },
+  //     availability: {
+  //       nextCloseTime: "2024-01-18 18:55:00",
+  //       opened: true,
+  //     },
+  //     badges: {},
+  //     isOpen: true,
+  //     type: "F",
+  //     badgesV2: {
+  //       entityBadges: {
+  //         imageBased: {},
+  //         textExtendedBadges: {},
+  //         textBased: {},
+  //       },
+  //     },
+  //     aggregatedDiscountInfoV3: {
+  //       header: "₹120 OFF",
+  //       subHeader: "ABOVE ₹199",
+  //       discountTag: "FLAT DEAL",
+  //     },
+  //     differentiatedUi: {
+  //       displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+  //       differentiatedUiMediaDetails: {
+  //         mediaType: "ADS_MEDIA_ENUM_IMAGE",
+  //         lottie: {},
+  //         video: {},
+  //       },
+  //     },
+  //     reviewsSummary: {},
+  //     displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  //     restaurantOfferPresentationInfo: {},
+  //   },
+  //   analytics: {},
+  //   cta: {
+  //     link: "swiggy://menu?restaurant_id=15870",
+  //     text: "RESTAURANT_MENU",
+  //     type: "DEEPLINK",
+  //   },
+  // },
 ];
 
 export default resList;
